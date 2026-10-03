@@ -104,3 +104,6 @@ outputs/tables/*.csv
 !outputs/tables/loan_age_duration_audit_by_year.csv
 !outputs/tables/survival_duration_summary_2016_2026.csv
 !outputs/tables/model_dataset_summary_2016_2026.csv
+# LOCAL PRODUCTION RESULTS
+results/production/
+results/current.json
